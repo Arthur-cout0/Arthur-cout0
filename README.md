@@ -1,4 +1,4 @@
-<h1> Olá, Mundo, eu sou Arthur.<br>Bem vindo ao meu github! </h1>
+<h2> Olá, Mundo, eu sou Arthur.<br>Bem vindo ao meu github! </h2>
 
 <div>
   <a href="https://github.com/Arthur-cout0">
